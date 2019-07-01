@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "username": "aniruddha",
+      "password": "welcome123",
+      "rememberMe": "true"
+    },
+    {
+      "username": "john",
+      "password": "apple123",
+      "rememberMe": "false"
+    },
+    {
+      "username": "amir",
+      "password": "google123",
+      "rememberMe": "true"
+    },
+    {
+      "username": "amit",
+      "password": "singh789",
+      "rememberMe": "true"
+    },
+    {
+      "username": "amita",
+      "password": "singh123",
+      "rememberMe": "true"
+    }
+  ]
+}
